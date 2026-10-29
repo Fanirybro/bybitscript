@@ -1,0 +1,1775 @@
+[
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/en/register",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "resource_type": "document",
+    "response_status": 200,
+    "response_body": "<!DOCTYPE html><html lang=\"en\" style=\"background:var(--cht-gray-bg-page)\" dir=\"ltr\" data-build-id=\"79fda86ed9af\"><head><meta charSet=\"utf-8\"/><title>Welcome to Bybit | Register, Trade &amp; Earn High Rewards | Bybit</title><meta http-equiv=\"x-dns-prefetch-control\" content=\"on\"/><meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1\"/><meta name=\"robots\" content=\"index,follow\"/><meta name=\"description\" content=\"Welcome to Bybit. Crea"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/css/7c44f33e9eeda388.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "stylesheet",
+    "response_status": 200,
+    "response_body": ".index_cht-by-button__m4Y94{display:flex;align-items:center;justify-content:center;background-color:#fff;border-color:unset;border-width:0;cursor:pointer;font-size:14px;font-weight:600;color:var(--cht-brand-black);border-radius:var(--bds-border-radius-button-sm,8px);font-family:var(--cht-font-family)}.index_cht-by-button__m4Y94[data-loading=true]{pointer-events:none}.index_cht-by-button__m4Y94.index_cht-by-button-submit__z_o2F{background-color:var(--cht-brand-700-normal);font-size:16px;border-ra"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/css/9d903f75a7dbf227.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "stylesheet",
+    "response_status": 200,
+    "response_body": ".index_by-input-newui-label__YKM4b{height:20px;line-height:20px;font-size:14px;color:#000}[dir=ltr] .index_by-input-newui-field__input-space__9NN7a{padding-left:20%}[dir=rtl] .index_by-input-newui-field__input-space__9NN7a{padding-right:20%}.index_by-input-newui-field_image_wrapper__edShb{position:absolute;top:10%}[dir=ltr] .index_by-input-newui-field_image_wrapper__edShb{left:10%}[dir=rtl] .index_by-input-newui-field_image_wrapper__edShb{right:10%}.index_by-input-newui-field_image__jvW23{height"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/css/4c965e0863ebf103.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "stylesheet",
+    "response_status": 200,
+    "response_body": ".index_by-input-email-newui__wdAdT{position:relative;flex:1}.index_by-input-email-newui-list__i0rJb{box-shadow:0 1px 6px rgba(0,0,0,.2);padding:0;position:absolute;top:70px;list-style:none;width:100%;background-color:var(--cht-gray-t1-title-revert);z-index:1003;color:var(--cht-gray-t1-title);transition:opacity .15s ease-in-out,height .25s linear;max-height:340px;border-radius:4px}.index_by-input-email-newui-list__i0rJb .index_item__WJtGK{line-height:16px;padding:16px;font-size:14px;cursor:pointe"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/css/033174c24afd0dce.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "stylesheet",
+    "response_status": 200,
+    "response_body": ".index_left-brand-box__I9lih{position:relative}.index_left-brand-box__I9lih .index_star__qQxGu{animation-duration:3.5s;animation-timing-function:ease-in-out;animation-iteration-count:infinite;animation-delay:1s;will-change:transform}[dir=ltr] .index_left-brand-box__I9lih .index_star__qQxGu{left:-60px}[dir=rtl] .index_left-brand-box__I9lih .index_star__qQxGu{right:-60px}@keyframes index_sign-up-button-lg___Dyh5{0%{transform:scale(1)}50%{transform:scale(1.8);bottom:8%}to{transform:scale(1)}}@keyfr"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/css/c0a5205321f3ab4c.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "stylesheet",
+    "response_status": 200,
+    "response_body": ".historyBackModal_history-back-modal-new__YJeou .cht-modal-box{border-radius:16px;max-height:100vh;overflow:auto}.historyBackModal_history-back-modal-new__YJeou .historyBackModal_history-back-modal__continue-btn__5ms1H,.historyBackModal_history-back-modal-new__YJeou .historyBackModal_history-back-modal__quit-btn__e3x1K{min-width:130px!important}.historyBackModal_history-back-modal__k1K_y .cht-modal-box{border-radius:16px}.historyBackModal_history-back-modal__submit__s5Xpx{font-weight:600;line-he"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/webpack-21cb3172b0cc76f6.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "!function(){\"use strict\";var e,t,a,n,c,r,f,d,o,u,i,s,b={},l={};function p(e){var t=l[e];if(void 0!==t)return t.exports;var a=l[e]={exports:{}},n=!0;try{b[e].call(a.exports,a,a.exports,p),n=!1}finally{n&&delete l[e]}return a.exports}p.m=b,p.amdO={},e=[],p.O=function(t,a,n,c){if(a){c=c||0;for(var r=e.length;r>0&&e[r-1][2]>c;r--)e[r]=e[r-1];e[r]=[a,n,c];return}for(var f=1/0,r=0;r<e.length;r++){for(var a=e[r][0],n=e[r][1],c=e[r][2],d=!0,o=0;o<a.length;o++)f>=c&&Object.keys(p.O).every(function(e){ret"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/framework-b6f5af86db660754.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9774],{78520:function(e,r,o){var t=o(19481);r.createRoot=t.createRoot,r.hydrateRoot=t.hydrateRoot},56053:function(e,r,o){/**\n * @license React\n * react-jsx-runtime.production.min.js\n *\n * Copyright (c) Facebook, Inc. and its affiliates.\n *\n * This source code is licensed under the MIT license found in the\n * LICENSE file in the root directory of this source tree.\n */var t=o(37667),n=Symbol.for(\"react.element\"),f=Symbol.for(\"re"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/main-c81a2ef6f2b72956.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[179],{68845:function(e,t){\"use strict\";function r(e,t,r,n,a,o,i){try{var u=e[o](i),c=u.value}catch(e){r(e);return}u.done?t(c):Promise.resolve(c).then(n,a)}function n(e){return function(){var t=this,n=arguments;return new Promise(function(a,o){var i=e.apply(t,n);function u(e){r(i,a,o,u,c,\"next\",e)}function c(e){r(i,a,o,u,c,\"throw\",e)}u(void 0)})}}Object.defineProperty(t,\"Z\",{enumerable:!0,get:function(){return n}})},60834:function(e,t){\"use"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/pages/_app-51d6b83e0e200a78.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2888],{70766:function(e,t,n){var r=n(73656);/*!\n * name: @fe/by-vendors\n * v: 1.6.5\n * build: 2026-10-14T04:03:11.109Z\n */(()=>{\"use strict\";let t;var o,i={d:(e,t)=>{for(var n in t)i.o(t,n)&&!i.o(e,n)&&Object.defineProperty(e,n,{enumerable:!0,get:t[n]})},o:(e,t)=>Object.prototype.hasOwnProperty.call(e,t),r:e=>{\"undefined\"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:\"Module\"}),Object.defineProperty("
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/162e3d08-8622b3c1fad0a180.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9686],{3156:function(e,t,n){n.d(t,{Bu:function(){return o},INr:function(){return m},NOm:function(){return h},Q2q:function(){return z},QNe:function(){return v},T08:function(){return p},TYC:function(){return c},ZGE:function(){return i},bMz:function(){return u},eYk:function(){return f},f4m:function(){return w},gK$:function(){return M},mrt:function(){return E},uxR:function(){return s},v$b:function(){return x},vUr:function(){return"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/7ffdecfc-bdc1551c90fc2ff7.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6689],{38616:function(t,e,r){let n;function i(t){return(i=\"function\"==typeof Symbol&&\"symbol\"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&\"function\"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?\"symbol\":typeof t})(t)}function o(t,e,r){var n;return(n=function(t,e){if(\"object\"!=i(t)||!t)return t;var r=t[Symbol.toPrimitive];if(void 0!==r){var n=r.call(t,e||\"default\");if(\"object\"!=i(n"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/4771-8bacf4985e30bfc3.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4771],{4771:function(e,n,r){r.d(n,{Z:function(){return W}});var t=r(44606),a=r(39631),o=r(52909),i=r(66671),c=r(37667),f=r.n(c),l=r(87608),d=r.n(l),u=(0,c.createContext)({}),s=r(39327);function g(e,n){\"string\"==typeof(r=e)&&-1!==r.indexOf(\".\")&&1===parseFloat(r)&&(e=\"100%\");var r,t,a=\"string\"==typeof(t=e)&&-1!==t.indexOf(\"%\");return(e=360===n?e:Math.min(n,Math.max(0,parseFloat(e))),a&&(e=parseInt(String(e*n),10)/100),1e-6>Math"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/6373-df67fb6829079def.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6373],{16373:function(e,t,r){r.d(t,{Gc:function(){return A},Qr:function(){return B},RV:function(){return w},cI:function(){return eV}});var a=r(37667),s=e=>\"checkbox\"===e.type,i=e=>e instanceof Date,l=e=>null==e;let u=e=>\"object\"==typeof e;var n=e=>!l(e)&&!Array.isArray(e)&&u(e)&&!i(e),o=e=>n(e)&&e.target?s(e.target)?e.target.checked:e.target.value:e,f=e=>e.substring(0,e.search(/\\.\\d+(\\.|$)/))||e,d=(e,t)=>e.has(f(t)),c=e=>{let "
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/5858-9bf1e14117e91c3c.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5858],{22306:function(t,n,e){\"use strict\";e.d(n,{Z:function(){return c}});var r=e(44606),i=e(37667),o={icon:{tag:\"svg\",attrs:{viewBox:\"0 0 1024 1024\",focusable:\"false\"},children:[{tag:\"path\",attrs:{d:\"M988 548c-19.9 0-36-16.1-36-36 0-59.4-11.6-117-34.6-171.3a440.45 440.45 0 00-94.3-139.9 437.71 437.71 0 00-139.9-94.3C629 83.6 571.4 72 512 72c-19.9 0-36-16.1-36-36s16.1-36 36-36c69.1 0 136.2 13.5 199.3 40.3C772.3 66 827 103 874 150c47 47 83."
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/1276-109064e62677b586.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1276],{61276:function(e,r,t){\"use strict\";t.d(r,{cn:function(){return T},kz:function(){return A},KX:function(){return Y},K_:function(){return W},ey:function(){return P}});var n=t(14517);t(27860);var o=/^\\[(.+)\\]$/;function i(e,r){var t=e;return r.split(\"-\").forEach(function(e){t.nextPart.has(e)||t.nextPart.set(e,{nextPart:new Map,validators:[]}),t=t.nextPart.get(e)}),t}var s=/\\s+/;function a(){for(var e,r,t=0,n=\"\";t<arguments.length;)(e=ar"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/8887-7f7cdf8126d8944b.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8887],{8887:function(e,r,t){t.d(r,{iv:function(){return ed},hi:function(){return ef},F4:function(){return eh}});var n,a,s,i,c=function(){function e(e){var r=this;this._insertTag=function(e){var t;t=0===r.tags.length?r.insertionPoint?r.insertionPoint.nextSibling:r.prepend?r.container.firstChild:r.before:r.tags[r.tags.length-1].nextSibling,r.container.insertBefore(e,t),r.tags.push(e)},this.isSpeedy=void 0===e.speedy||e.speedy,th"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/56-41b7cb6597b8edff.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[56],{30877:function(t,e,n){\"use strict\";n.d(e,{Z:function(){return g}});var r,i,a,o=n(27787),l=n(61276);n(37667);var s=n(8887);function u(t,e){return e||(e=t.slice(0)),Object.freeze(Object.defineProperties(t,{raw:{value:Object.freeze(e)}}))}var c=function(t,e,n,r){return\"@keyframes \".concat(t,\" {\\n      0%,\\n      100% {\\n        transform: translate(\").concat(e,\", \").concat(n,\");\\n      }\\n\\n      50% {\\n        transform: translate(\").co"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/6385-8e41c21be5da89bc.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6385],{33560:function(e){e.exports={\"ban-ip-dialog\":\"index_ban-ip-dialog__Lw7j_\",visible:\"index_visible__POV8R\",\"ban-ip-dialog_container\":\"index_ban-ip-dialog_container__RN_c8\",\"ban-ip-dialog_title\":\"index_ban-ip-dialog_title__oFnh_\",\"ban-ip-dialog_xxx-wraper\":\"index_ban-ip-dialog_xxx-wraper__OSZaO\",\"ban-ip-dialog_xxx\":\"index_ban-ip-dialog_xxx__u0y5t\",\"ban-ip-dialog_content\":\"index_ban-ip-dialog_content__9tb2K\",\"ban-ip-dialog_next_tip\":\"in"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/1614-f1a48b3c231a7846.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1614,9281],{40808:function(e){e.exports={thirdPartyContainer:\"index_thirdPartyContainer__mmqx5\",header:\"index_header__CW01O\",context:\"index_context__fWuqe\",btnContainer:\"index_btnContainer__y9qLo\",appleBtn:\"index_appleBtn__9hKp8\",btnDark:\"index_btnDark__j0Hk9\",appleLogo:\"index_appleLogo__UzReX\",btn:\"index_btn__8CrYc\",googleLogo:\"index_googleLogo__gm7RH\"}},68958:function(e){e.exports={checkLabelWrapper:\"index_checkLabelWrapper__zS6kS\",jpnCh"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/2314-00d694820a7d54e1.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2314],{39514:function(e){e.exports={\"by-input-email-newui\":\"index_by-input-email-newui__wdAdT\",\"by-input-email-newui-list\":\"index_by-input-email-newui-list__i0rJb\",item:\"index_item__WJtGK\",\"item-value\":\"index_item-value__nfZYf\"}},32314:function(e,t,n){\"use strict\";n.d(t,{S:function(){return T},TX:function(){return D},wW:function(){return M}});var r=n(97123),i=n(14110),a=n(29823),o=n(98718),u=n(37869),c=n.n(u),s=n(37667),l=n(23356),d=n(3914"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/7261-f869424c28b947e9.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7261],{33186:function(e){e.exports={geetest_head:\"index_geetest_head__i3uPq\",wait_right_info:\"index_wait_right_info__jMPB8\",wait_loading_rotate:\"index_wait_loading_rotate__iiQhG\",\"register-container\":\"index_register-container__xHRu1\",\"by-register-forget\":\"index_by-register-forget__8pDeB\",\"first-row\":\"index_first-row__NCWtZ\"}},28516:function(e){e.exports={pwdContainer:\"index_pwdContainer__m_yYw\",lastStepTip:\"index_lastStepTip__KifS_\",toolti"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/2112-802ec55146849268.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2112],{34875:function(e,n,t){t.d(n,{B:function(){return c}});var o,r=t(45179),i=\"unload\",c=function(){var e;\"loaded\"!==i&&(null!=(o=null===r.nh||void 0===r.nh?void 0:r.nh.Monitor)&&o.initialized||null==o||null===(e=o.init)||void 0===e||e.call(o,{}),i=\"loaded\")}},85183:function(e,n,t){t.d(n,{Q:function(){return a}});var o=t(14110),r=t(37869),i=t.n(r),c=t(37667),a=function(e,n,t){var r,a=(r=(0,o.Z)(i().mark(function o(){var r,c="
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/7854-ce8bce9d20045547.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7854],{15225:function(t){t.exports={\"cht-right-box\":\"index_cht-right-box__J9IP6\",\"cht-box-left\":\"index_cht-box-left__9fJAX\",\"cht-box-right\":\"index_cht-box-right__gw_dx\",\"cht-box-dark\":\"index_cht-box-dark__9jzVL\",\"cht-box-light\":\"index_cht-box-light__WEVCF\"}},71356:function(t){t.exports={\"left-card-bg\":\"index_left-card-bg__V87dN\",\"left-card-bg-light\":\"index_left-card-bg-light__lUybJ\",\"left-card-bg-box\":\"index_left-card-bg-box__4jTCK\",cardBg"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/pages/register-550f27daa32a04da.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[495],{89663:function(e,t,n){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/register\",function(){return n(18743)}])},79457:function(e){e.exports={\"history-back-modal-new\":\"historyBackModal_history-back-modal-new__YJeou\",\"history-back-modal__continue-btn\":\"historyBackModal_history-back-modal__continue-btn__5ms1H\",\"history-back-modal__quit-btn\":\"historyBackModal_history-back-modal__quit-btn__e3x1K\",\"history-back-modal\":\"historyBackModal_histor"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/t3V3x1fUrkehy5y3o2OyF/_buildManifest.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "self.__BUILD_MANIFEST=function(s,e,a,t,c,n,i,r,u,E,d,h,U,f,o,l,k,b,p,g,j,A,R,N,K,T,I,P,H,z,L,M,m,v,G,O){return{__rewrites:{beforeFiles:[{source:\"/:nextInternalLocale(default|en|id\\\\-ID|es\\\\-ES|es\\\\-MX|es\\\\-AR|kk\\\\-KZ|fr\\\\-FR|pt\\\\-BR|pt\\\\-PT|ru\\\\-RU|vi\\\\-VN|uk\\\\-UA|ar\\\\-SA|ja\\\\-JP|zh\\\\-MY|zh\\\\-TW|my\\\\-MM|km\\\\-KH|en\\\\-GB|pl\\\\-PL|ro\\\\-RO|zh\\\\-HK|en\\\\-HK|tr\\\\-TUR|en\\\\-TR|ru\\\\-KAZ|kk\\\\-KAZ|en\\\\-KAZ|nl\\\\-NL|en\\\\-NL|en\\\\-EU|cs\\\\-EU|da\\\\-EU|de\\\\-EU|es\\\\-EU|el\\\\-EU|fr\\\\-EU|it\\\\-EU|lt\\\\-EU|hu\\\\-EU|nl\\\\-EU"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/t3V3x1fUrkehy5y3o2OyF/_ssgManifest.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "self.__SSG_MANIFEST=new Set([\"\\u002Fapply-global-account\",\"\\u002Fauthorized\",\"\\u002Fchannel-register\",\"\\u002Femail-code-verify\",\"\\u002Fexclusive-benefits\",\"\\u002Ffriend-invite\",\"\\u002Flogin\",\"\\u002Fmigration-account\",\"\\u002Foauth\",\"\\u002Foauth-authorized\",\"\\u002Foauth-log-out\",\"\\u002Foauth-login\",\"\\u002Foauth-register\",\"\\u002Fregister\",\"\\u002Fsign-up\",\"\\u002Ftelegram-register-login\",\"\\u002Ftr-authorized\",\"\\u002Ftr-login\",\"\\u002Ftr-register\"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/common-static/cht-static/security-svc/js/finger_device.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "function a0_0x21de(_0x4c5262,_0x56104f){var _0x3f9e0b=a0_0x3f9e();return a0_0x21de=function(_0x21decb,_0x28ed35){_0x21decb=_0x21decb-0x70;var _0x4711fa=_0x3f9e0b[_0x21decb];return _0x4711fa;},a0_0x21de(_0x4c5262,_0x56104f);}function a0_0x3f9e(){var _0x177c1c=['YVt0aXRsZT0iN25hZ2EgcG9rZXIiIGld','Marlett','label','allSettled','Voice','webgl','CTR','72px','indexOf','URL','getContext','msFullscreenElement','undefined','TDID_KEY','_keyPriorReset','Opera\\x20Coast','return\\x20this','SHA1','loaded','Net"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/2200.0a66d2d394630f3e.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2200],{1421:function(e,t,r){var i,n,o,a,s,c,h,l,p,f,u,d,g,_,v,y;e.exports=(i=r(17973),r(1667),r(90278),r(20494),r(45518),o=(n=i).lib.BlockCipher,a=n.algo,s=[],c=[],h=[],l=[],p=[],f=[],u=[],d=[],g=[],_=[],function(){for(var e=[],t=0;t<256;t++)t<128?e[t]=t<<1:e[t]=t<<1^283;for(var r=0,i=0,t=0;t<256;t++){var n=i^i<<1^i<<2^i<<3^i<<4;n=n>>>8^255&n^99,s[r]=n,c[n]=r;var o=e[r],a=e[o],v=e[a],y=257*e[n]^16843008*n;h[r]=y<<24|y>>>8,l[r]=y<<16|y>>>16"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/7091.a45f9b6f81c7c10e.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7091],{7091:function(){}}]);"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/x-api/register/permission_v2",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "lang": "en",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-c506e00f78e8a57427bd197147d94361-ba934bd4784e42e2-01",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "content-type": "application/json;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4",
+      "platform": "pc"
+    },
+    "post_data": null,
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"success\",\n  \"result\": {\n    \"code\": \"DZ\",\n    \"name_en\": \"Algeria\",\n    \"is_visible\": 1,\n    \"is_login\": 1,\n    \"is_trade\": 1,\n    \"ip\": \"186.247.73.79\",\n    \"ban_time\": \"2026-10-28 07:34:48\",\n    \"is_sanction_ip_disallow\": 0,\n    \"refer_site_id\": \"BYBIT\",\n    \"group_country\": \"\"\n  },\n  \"ext_code\": \"\",\n  \"ext_info\": null,\n  \"time_now\": \"1793172888.151240\"\n}"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/common-static/cht-static/user-svc/img/register/brand6new/p2p-3d-card.webp",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/common-static/cht-static/user-svc/img/register/ui/lightLogo.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/x-api/v2/public/country-list?is_disable=1&is_iso=1",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "lang": "en",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-11df487a507fc7bd93dcdcaecb62b83d-6b0c6313504b0750-01",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "content-type": "application/json;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4",
+      "platform": "pc"
+    },
+    "post_data": null,
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"success\",\n  \"result\": [\n    {\n      \"code\": \"AD\",\n      \"area_code\": 376,\n      \"name_en\": \"Andorra\",\n      \"name_zh-CN\": \"安道尔共和国\",\n      \"is_register\": true,\n      \"is_trade\": true,\n      \"is_login\": true,\n      \"is_current\": false,\n      \"iso3\": \"AND\",\n      \"name_tr\": \"Andorra\"\n    },\n    {\n      \"code\": \"AE\",\n      \"area_code\": 971,\n      \"name_en\": \"United Arab Emirates\",\n      \"name_zh-CN\": \"阿拉伯联合酋长国\",\n      \"is_register\": true,\n      \"is_trade\": true,\n    "
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/common-static/cht-static/security-svc/js/t1.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "var TURING=function(){var A=[];var B;function g(A,B,g){var C=[],E=0;while(E++<B){C.push(A+=g)}return C}var C=g(0,43,0).concat([62,0,62,0,63]).concat(g(51,10,1)).concat(g(0,8,0)).concat(g(0,25,1)).concat([0,0,0,0,63,0]).concat(g(25,26,1));function E(A){var B=\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=\".split(\"\");var g=String(A).replace(/[=]+$/,\"\"),E=g.length,I,Q,Y=0,o=0,i=[];for(;o<E;o++){Q=C[g.charCodeAt(o)];~Q&&(I=Y%4?64*I+Q:Q,Y++%4)?i.push(255&I>>(-2*Y&6)):0}return i}fun"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/common-static/cht-static/user-svc/img/country/algeria.svg",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "<?xml version=\"1.0\" encoding=\"iso-8859-1\"?>\r\n<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\r\n<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"\r\n\t viewBox=\"0 0 512 512\" style=\"enable-background:new 0 0 512 512;\" xml:space=\"preserve\">\r\n<path style=\"fill:#F0F0F0;\" d=\"M256,0c141.384,0,256,114.616,256,256S397.384,512,256,512c0-11.13-33.391-256-33.391-256L256,0z\"/>\r\n<path style=\""
+  },
+  {
+    "method": "POST",
+    "url": "https://www.bybit.com/x-api/user/magpice/v1/captcha/order",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-0ac1a7d0db8e0eb3677710a313774af3-16017ed23081045f-01",
+      "usertoken": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "content-type": "text/plain;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4"
+    },
+    "post_data": "{\"txid\":\"\",\"login_name\":\"9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4\",\"country_code\":\"\",\"scene\":\"31004\",\"state\":\"\"}",
+    "resource_type": "fetch"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.bybit.com/x-api/user/magpice/v1/captcha/order",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-26a7594f77468ae02eebfeb6f0eeec51-17cc281df775a98b-01",
+      "usertoken": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "content-type": "text/plain;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4"
+    },
+    "post_data": "{\"txid\":\"\",\"login_name\":\"9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4\",\"country_code\":\"\",\"scene\":\"31001\",\"state\":\"\"}",
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"success\",\n  \"result\": {\n    \"challenge\": \"gee4captcha,geecaptcha,qqcaptcha\",\n    \"serial_no\": \"1793170791043140812894823053100120331#d971d9c8f9c27223cdf649d79c75f168\",\n    \"gt\": \"5c7686ca05a60b10deb39b8d60e53a6f\",\n    \"gt4\": \"dfea72f3c3de1910327f2f3b5fbbc9b8\",\n    \"challenge_type\": \"1\",\n    \"geetest_challenge\": \"5d9ce790383aa1f3bec26671ac8aeb12\",\n    \"state\": \"\",\n    \"serial_no_type\": \"1\",\n    \"gt_no\": \"\",\n    \"ext_info\": \"\",\n    \"ext_infov1\": \"\",\n    \"a_id\": \"18"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/fe-lib-user-security/campaign.latest.js?t=29886215",
+    "headers": {
+      "origin": "https://www.bybit.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "!function(e,t){\"object\"==typeof exports&&\"object\"==typeof module?module.exports=t(require(\"ByVendors\"),require(\"React\")):\"function\"==typeof define&&define.amd?define([\"ByVendors\",\"React\"],t):\"object\"==typeof exports?exports.ByUser_campaign=t(require(\"ByVendors\"),require(\"React\")):e.ByUser_campaign=t(e.ByVendors,e.React)}(this,((e,t)=>(()=>{var n={32485:(e,t)=>{var n;!function(){\"use strict\";var a={}.hasOwnProperty;function r(){for(var e=[],t=0;t<arguments.length;t++){var n=arguments[t];if(n){var"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/fe-lib-user-security/antiPhishingCode.latest.js?t=29886215",
+    "headers": {
+      "origin": "https://www.bybit.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "!function(e,n){\"object\"==typeof exports&&\"object\"==typeof module?module.exports=n(require(\"ByVendors\"),require(\"React\"),require(\"ReactDOM\")):\"function\"==typeof define&&define.amd?define([\"ByVendors\",\"React\",\"ReactDOM\"],n):\"object\"==typeof exports?exports.ByUser_antiPhishingCode=n(require(\"ByVendors\"),require(\"React\"),require(\"ReactDOM\")):e.ByUser_antiPhishingCode=n(e.ByVendors,e.React,e.ReactDOM)}(this,((e,n,t)=>(()=>{var r,o,a,i,s={54764:(e,n,t)=>{\"use strict\";t.d(n,{cn:()=>Y,wJ:()=>V,BI:()=>H,"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/fe-lib-user-security/ada.latest.js?t=29886215",
+    "headers": {
+      "origin": "https://www.bybit.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "!function(t,e){\"object\"==typeof exports&&\"object\"==typeof module?module.exports=e(require(\"ByVendors\"),require(\"React\"),require(\"ReactDOM\")):\"function\"==typeof define&&define.amd?define([\"ByVendors\",\"React\",\"ReactDOM\"],e):\"object\"==typeof exports?exports.ByUser_ada=e(require(\"ByVendors\"),require(\"React\"),require(\"ReactDOM\")):t.ByUser_ada=e(t.ByVendors,t.React,t.ReactDOM)}(this,((t,e,n)=>(()=>{var o,r,i,a,s={20053:(t,e,n)=>{\"use strict\";function o(t){var e,n,r=\"\";if(\"string\"==typeof t||\"number\"=="
+  },
+  {
+    "method": "GET",
+    "url": "https://gcaptcha4.geetest.com/load?captcha_id=dfea72f3c3de1910327f2f3b5fbbc9b8&challenge=84ec6d5b-cf8f-421d-9fd5-ea6f5a8fa619&client_type=web&lang=eng&callback=geetest_1793172906367",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172906367({\"status\": \"success\", \"data\": {\"lot_number\":\"235715b15df64270bed443a61c3d8515\",\"captcha_type\":\"slide\",\"slice\":\"captcha_v4/22db56e453/slide/a0aebc203e/2025-08-06T13/slice/63528ddbb5c64ea78c1cab62cba245b8.png\",\"bg\":\"captcha_v4/22db56e453/slide/a0aebc203e/2025-08-06T13/bg/63528ddbb5c64ea78c1cab62cba245b8.png\",\"ypos\":12,\"arrow\":\"arrow_1\",\"js\":\"/js/gcaptcha4.js\",\"css\":\"/css/gcaptcha4.css\",\"static_path\":\"/v4/static/v1.9.8-0d53fd\",\"gct_path\":\"/v4/gct/gct4.5a2e755576738ba0499d714db"
+  },
+  {
+    "method": "GET",
+    "url": "https://api.geetest.com/gettype.php?gt=5c7686ca05a60b10deb39b8d60e53a6f&callback=geetest_1793172914821",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172914821({\"status\": \"success\", \"data\": {\"type\": \"fullpage\", \"static_servers\": [\"static.geetest.com/\", \"static.geevisit.com/\"], \"click\": \"/static/js/click.3.1.2.js\", \"beeline\": \"/static/js/beeline.1.0.1.js\", \"voice\": \"/static/js/voice.1.2.6.js\", \"fullpage\": \"/static/js/fullpage.9.2.0-guwyxh.js\", \"slide\": \"/static/js/slide.7.9.3.js\", \"geetest\": \"/static/js/geetest.6.0.9.js\", \"aspect_radio\": {\"slide\": 103, \"click\": 128, \"voice\": 128, \"beeline\": 50}}})"
+  },
+  {
+    "method": "GET",
+    "url": "https://gcaptcha4.geetest.com/load?captcha_id=dfea72f3c3de1910327f2f3b5fbbc9b8&challenge=514d41e6-283e-43f9-a9c7-756ca1b03af2&client_type=web&lang=eng&callback=geetest_1793172904995",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172904995({\"status\": \"success\", \"data\": {\"lot_number\":\"8ff0c339c7b4455189478076440bad68\",\"captcha_type\":\"slide\",\"slice\":\"captcha_v4/22db56e453/slide/563521e64d/2025-08-06T13/slice/33f12d627273441fad1bf3aa3edb75e6.png\",\"bg\":\"captcha_v4/22db56e453/slide/563521e64d/2025-08-06T13/bg/33f12d627273441fad1bf3aa3edb75e6.png\",\"ypos\":66,\"arrow\":\"arrow_1\",\"js\":\"/js/gcaptcha4.js\",\"css\":\"/css/gcaptcha4.css\",\"static_path\":\"/v4/static/v1.9.8-0d53fd\",\"gct_path\":\"/v4/gct/gct4.5a2e755576738ba0499d714db"
+  },
+  {
+    "method": "GET",
+    "url": "https://api.geetest.com/gettype.php?gt=5c7686ca05a60b10deb39b8d60e53a6f&callback=geetest_1793172913768",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172913768({\"status\": \"success\", \"data\": {\"type\": \"fullpage\", \"static_servers\": [\"static.geetest.com/\", \"static.geevisit.com/\"], \"click\": \"/static/js/click.3.1.2.js\", \"beeline\": \"/static/js/beeline.1.0.1.js\", \"voice\": \"/static/js/voice.1.2.6.js\", \"fullpage\": \"/static/js/fullpage.9.2.0-guwyxh.js\", \"slide\": \"/static/js/slide.7.9.3.js\", \"geetest\": \"/static/js/geetest.6.0.9.js\", \"aspect_radio\": {\"slide\": 103, \"click\": 128, \"voice\": 128, \"beeline\": 50}}})"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/common-static/cht-static/user-svc/img/register/brand6new/p2p-woman-plane.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/x-api/register/permission_v2",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "lang": "en",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-e98a8ec712ff7f7170aa3f330eaf485b-4886a47230a68ac2-01",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "content-type": "application/json;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4",
+      "platform": "pc"
+    },
+    "post_data": null,
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"success\",\n  \"result\": {\n    \"code\": \"DZ\",\n    \"name_en\": \"Algeria\",\n    \"is_visible\": 1,\n    \"is_login\": 1,\n    \"is_trade\": 1,\n    \"ip\": \"186.247.73.79\",\n    \"ban_time\": \"2026-10-28 07:34:57\",\n    \"is_sanction_ip_disallow\": 0,\n    \"refer_site_id\": \"BYBIT\",\n    \"group_country\": \"\"\n  },\n  \"ext_code\": \"\",\n  \"ext_info\": null,\n  \"time_now\": \"1793172897.740362\"\n}"
+  },
+  {
+    "method": "GET",
+    "url": "https://gcaptcha4.geevisit.com/load?captcha_id=dfea72f3c3de1910327f2f3b5fbbc9b8&challenge=84ec6d5b-cf8f-421d-9fd5-ea6f5a8fa619&client_type=web&lang=eng&callback=geetest_1793172910319",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172910319({\"status\": \"success\", \"data\": {\"lot_number\":\"a29bf50053f144d285b4baba686159c2\",\"captcha_type\":\"slide\",\"slice\":\"captcha_v4/22db56e453/slide/b8bb2211ec/2025-08-06T13/slice/213da386b7924314a188e6ece11c941f.png\",\"bg\":\"captcha_v4/22db56e453/slide/b8bb2211ec/2025-08-06T13/bg/213da386b7924314a188e6ece11c941f.png\",\"ypos\":120,\"arrow\":\"arrow_1\",\"js\":\"/js/gcaptcha4.js\",\"css\":\"/css/gcaptcha4.css\",\"static_path\":\"/v4/static/v1.9.8-0d53fd\",\"gct_path\":\"/v4/gct/gct4.5a2e755576738ba0499d714d"
+  },
+  {
+    "method": "GET",
+    "url": "https://gcaptcha4.geevisit.com/load?captcha_id=dfea72f3c3de1910327f2f3b5fbbc9b8&challenge=514d41e6-283e-43f9-a9c7-756ca1b03af2&client_type=web&lang=eng&callback=geetest_1793172909988",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172909988({\"status\": \"success\", \"data\": {\"lot_number\":\"342e3003ad8e43d68af3258e05dc06a1\",\"captcha_type\":\"slide\",\"slice\":\"captcha_v4/22db56e453/slide/3b115b12e3/2025-08-06T13/slice/201a1b8528464f3a91c2f27c95a6b290.png\",\"bg\":\"captcha_v4/22db56e453/slide/3b115b12e3/2025-08-06T13/bg/201a1b8528464f3a91c2f27c95a6b290.png\",\"ypos\":46,\"arrow\":\"arrow_1\",\"js\":\"/js/gcaptcha4.js\",\"css\":\"/css/gcaptcha4.css\",\"static_path\":\"/v4/static/v1.9.8-0d53fd\",\"gct_path\":\"/v4/gct/gct4.5a2e755576738ba0499d714db"
+  },
+  {
+    "method": "GET",
+    "url": "https://oauth.telegram.org/embed/Bybit_Mainnet_bot?origin=https%3A%2F%2Fwww.bybit.com&return_to=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&size=large&userpic=false&request_access=write",
+    "headers": {
+      "referer": "https://www.bybit.com/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "resource_type": "document",
+    "response_status": 200,
+    "response_body": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>Telegram Widget</title>\n    <base target=\"_blank\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no\" />\n    <meta name=\"format-detection\" content=\"telephone=no\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"MobileOptimized\" content=\"176\" />\n    <meta name=\"HandheldFriendly\" content=\"True\" />\n    <meta name=\"robots\" "
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/static/js/fullpage.9.2.0-guwyxh.js",
+    "headers": {
+      "origin": "https://www.bybit.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "Vwtrj.$_AK=function(){var $_DDIAa=2;for(;$_DDIAa!==1;){switch($_DDIAa){case 2:return{$_DDIBo:function($_DDICz){var $_DDIDE=2;for(;$_DDIDE!==14;){switch($_DDIDE){case 5:$_DDIDE=$_DDIEi<$_DDIFr.length?4:7;break;case 2:var $_DDIGz='',$_DDIFr=decodeURI('%7Ddm%05%02%5B%7Ddm%05%02%5B%7Ddm%05lO%12%16%1AflO%12%10%19Tl%02;%0A%1FY%5D%08&%174EZ%0E?%0Ayjq.%01%0Ayjv%22%14%0A8%5BQ%194$)w%5E%04.?%03%11m(%09=%03p%5C%08?--A%5D%19%13p%02vq%01%13t%03%11m/%0B=%03ES%0F%13%046VA%5C%1371T_%1B%13$/ZF%049--Pl(%0F%17%03W"
+  },
+  {
+    "method": "GET",
+    "url": "https://api.geetest.com/get.php?gt=5c7686ca05a60b10deb39b8d60e53a6f&challenge=59ed178f4c862f63e566629cc192e70c&lang=en&pt=0&client_type=web&w=cyJQY02W(MRXKhn7JDDzOk572BlKoq592AzQpR((SsawjKkKvsFME4A3sdhtBjtcg3ZgvFaXRm3HMnktPBHPEADdIAAUp4)eJ7(UlaVS16QCWuf6n8yZvzQZVPK29FpTj8ZJBkayLQFO3DNxYOSh55BpAuwQeXPg6YdzbXXL0m7zgGVLVQVYRzArrPcMJxVkZLoWOMdfcCJLlP(FKvDevDHvdaHv4O9cpgUl6M3xOnMCWgWfWCxvVa6rRtKo5k7xMfB9zgyifXGQV(gps2M5Bt0TW0lfDaB2nh22jBZsjtgIULtCcF(u0LPiBV1WRpOCCkrkUtoFAsv81rQW9jyospnuoIyTmj)WosyGIf9iObGrMsXvIkjgn04aa)bVpjxsT7AcK)bu7ZtPGP8ma1S6yPZRXiTyJHOF9zbdjG)KNBBpqDLj4Gq2dodDkcsRKmdxE4EBdKqKApTBHIxAdl(Q8CjmPNDoXWOfkEuPBTB)67y9PFT9(nPYRkB1LuJ3V15BSVNT6BoVWWCFsmnumwuEtP7esDJH1(4bTUWqAS7hxPGkcIjMjF9KyIIdBMUJbmZsmFnV(niWQAwlv5kOCbJzRxuHrpW)HX4qSyyZERBTNYyuTj6MHr)hsyIa2UYpeAy8FMw5crBrDBopLY1kGNOwqSiM0GxnXbYOnoTvFT8Q3w1KxNket3QqDNZE(agc0ab)6JoqDNOVN6RpzYuZop5r9h(pgPqnvx6nM4o0qSWxLreUIXajre(TiQ93omQPub4RmTspPPayuOcTgmfQ991Il6loD(d0hpZ2h2K91WjnljkboGzdqzOOVVkPAsvZ(irw148BbWFrLPJ3JjW2e8qs)8xrAtGocLWu9j)qA7DbgAeyfHK4hCvThBqBT2rd)PyPZo99(mg5k(TmyX(JS6C6X1JUyO4h(3LpPkqMseNVPrHoYkiDYUdKq41nC6jnZ9QtTmmVpNvFPvyTGyGwU)DH0(rZkzLRv8dEbPDlGCJli2zUfpGHC3RamypEFmmGRLEU1BLKX4NJec3b1(TXSUpiCxaaPHePUMRrdMstTFtr3Pw2Jg9)dV8qO3YRx5mFZqZ4xN4xZBNXg(hs48UHKy31GzxAEf9EN8sDLveGS4QM138vk4d(tCNYnsAzt2h9NNHw950eca4a026c7eae9d16c0f408176bbbf1a3cf7c045ac6ce274a433ca2111280bc07ebf1a788b5b367baf65c051b4839b0dceccd90857badd67f977fc6af908ec765819b290fd02ec838b1910ade9e5b063e72b9f8a1fd97e1fea5d967b7ad63fa7c5b5db1f52b029dce643b3913581f79785869efd9bdc5e1a83b12f9d5a2c4&callback=geetest_1793172922215",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172922215({\"status\": \"success\", \"data\": {\"theme\": \"wind\", \"theme_version\": \"1.5.8\", \"static_servers\": [\"static.geetest.com\", \"static.geevisit.com\"], \"api_server\": \"api.geevisit.com\", \"logo\": false, \"feedback\": \"\", \"c\": [12, 58, 98, 36, 43, 95, 62, 15, 12], \"s\": \"68566635\", \"i18n_labels\": {\"copyright\": \"Powered by Geetest\", \"error\": \"Error\", \"error_content\": \"Retry\", \"error_title\": \"Timed out\", \"fullpage\": \"Verifying\", \"goto_cancel\": \"Cancel\", \"goto_confirm\": \"OK\", \"goto_homepage\": \"G"
+  },
+  {
+    "method": "GET",
+    "url": "https://api.geetest.com/get.php?gt=5c7686ca05a60b10deb39b8d60e53a6f&challenge=5d9ce790383aa1f3bec26671ac8aeb12&lang=en&pt=0&client_type=web&w=FxTqwRgivEi3KtTncWyW9)uTt)URj)8VVEc30yDPTwBCC63v3Di2MYjZSu4NS0hZOjL3oIL42yj20KEbvc2YnNCoR5TNZcRd)NwbqVRm8pxwGnkuuwQAXy2p6Rc)T1kyW9TZHkI22650Ap8Or1m(z5sOISVkxQY3tXohf9aQPxtJYjXk9QIIbdiK5ImKeAeigbnK9eFulUr2QiI19hhggoLyO7O6zS)7izBQ59mQIQC(v5f(0T1Nua2tHwK8NJxcmZgWPdIHP7IlVjRIxaWQ3q9vbW4KndGcaRoG2fG5lkb5zfDh0rJRqdINmfMW)tTgzIQ7dxjn5BBMrxxszUMYSzeKFXGRKldKnQOg4TDZnN0ptqVEWdk5BQWrw(hcSj1LiGX5Bum(954G4Ff5ybigQaV)VVMkMlJlxLjotgUtODTukFh4fWWAv68Bin60hdRnO(cAUGGeF5r)R9MSt0UePioiucggsFuwczC(7x42UrzNE2HkatfJGUFM3sdD3MF3YK8(64DC5B)5sHuOrBLFeddRLpDs43lNqhJ2mCEcrkHs4iBUPZf3XyaLZSlilMWouDU8hovuX1iy3bgO6Yux0hyXOVUCUhj(l9381fssMm0hilLz9IDH6Wjf1wq6jK)L(JFfhS5hIcwVb7P0Jt5eHUqxMLVphHuSav(IrzhoumYZOqgSwMeXOLwh9IWa1XZPqax1Ko(Zmmwf0qMCQCyszPOcCkRBK2ag1pZVP(Q3VU4lVA8oxKcNAhVZ)MYQm1Br0bKRjgkAwzUeHQIgcVX1NTi(QPQYi42z3dr6SLAZVXb7d10HZ1LNyC0OzLFPzgE61fAl5zhnw1TB2OEb)FEXvdCBbRYSKD0h3PyaXWACIKKtChlyXSgpp0pnmzvHT21O3FA)UX1j1eZv0ULtGomaTbfqf5b9YzsZPsvMcJoZiE779G96xv8gAR7HZPs3za8dwPOSf11lrVNRiQp7kRGaEjpPYEMhp4mbDNGAzMjT4vX1JDO1x(xidf4K8PlOwrko5TND5()vFvqegXyC2bTJeO)1CT1BJoRPEPeJLBJyY9V)JUvo4fcobhDRN6EMWhPojeKd9ZvJdlaRvxSdsqIICEVpchCNA(m1vJMZQYs6ovi)rntMDA(now7F70y92)Xba56bf29bbf026536bc838517c5424a6e2ae5b8518b43f1131fb3c1db0ad56face515494223c8f4bca95e3a3ce24ef9dfb1c8abfd94c0b88ebe1687f71f162fef9602c07fce07c4a553cf3bdc5d2b34e06ce0e56337427a3a1ff65c2e9645e525f372cc89cc6a24f99d5403cb27eef66bf17fea8ad152ffb3fc7dfed6d222f555&callback=geetest_1793172912911",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172912911({\"status\": \"success\", \"data\": {\"theme\": \"wind\", \"theme_version\": \"1.5.8\", \"static_servers\": [\"static.geetest.com\", \"static.geevisit.com\"], \"api_server\": \"api.geevisit.com\", \"logo\": false, \"feedback\": \"\", \"c\": [12, 58, 98, 36, 43, 95, 62, 15, 12], \"s\": \"6a2e6f40\", \"i18n_labels\": {\"copyright\": \"Powered by Geetest\", \"error\": \"Error\", \"error_content\": \"Retry\", \"error_title\": \"Timed out\", \"fullpage\": \"Verifying\", \"goto_cancel\": \"Cancel\", \"goto_confirm\": \"OK\", \"goto_homepage\": \"G"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/static/wind/style_https.1.5.8.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "stylesheet",
+    "response_status": 200,
+    "response_body": ".geetest_holder.geetest_wind .geetest_success_btn .geetest_success_box .geetest_success_correct .geetest_success_icon,.geetest_holder.geetest_wind .geetest_logo,.geetest_holder.geetest_wind .geetest_success_logo,.geetest_holder.geetest_wind.geetest_radar_error .geetest_logo,.geetest_holder.geetest_wind.geetest_radar_error .geetest_radar .geetest_status .geetest_hook,.geetest_holder.geetest_wind.geetest_ie.geetest_radar_success .geetest_ie_radar,.geetest_holder.geetest_wind.geetest_ie.geetest_not"
+  },
+  {
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=3760716&time=1793172916250&pageLoadId=a60cf89c-604c-4eb3-8e91-4c497d225dec&url=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image"
+  },
+  {
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=3760716&time=1793172916250&pageLoadId=a60cf89c-604c-4eb3-8e91-4c497d225dec&url=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&cookiesTest=true",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "referer": "https://www.bybit.com/"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 302,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://t.co/1/i/adsct?bci=4&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=6b9110a8-ad9f-41a5-b79d-702db66c51e2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=qve5w&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=6b9110a8-ad9f-41a5-b79d-702db66c51e2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=qve5w&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://t.co/1/i/adsct?bci=4&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=4217e49e-cc86-443c-ba21-408f9a4b87e5&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.47%2CGoogle%20Chrome%2F156.0.8078.47&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=o9hl0&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=4217e49e-cc86-443c-ba21-408f9a4b87e5&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.47%2CGoogle%20Chrome%2F156.0.8078.47&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=o9hl0&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D3760716%26time%3D1793172916250%26pageLoadId%3Da60cf89c-604c-4eb3-8e91-4c497d225dec%26url%3Dhttps%253A%252F%252Fwww.bybit.com%252Fen%252Fregister%26cookiesTest%3Dtrue%26liSync%3Dtrue",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "referer": "https://www.bybit.com/"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 302,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=3760716&time=1793172916250&pageLoadId=a60cf89c-604c-4eb3-8e91-4c497d225dec&url=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&cookiesTest=true&liSync=true",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "referer": "https://www.bybit.com/"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/x-api/v2/public/country-list",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "lang": "en",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-9aa49940d2f7e05d6291238d881c20c0-fa433f51e81b7eb4-01",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "content-type": "application/json;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4",
+      "platform": "pc"
+    },
+    "post_data": null,
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"success\",\n  \"result\": [\n    {\n      \"code\": \"AD\",\n      \"area_code\": 376,\n      \"name_en\": \"Andorra\",\n      \"name_zh-CN\": \"安道尔共和国\",\n      \"is_register\": true,\n      \"is_trade\": true,\n      \"is_login\": true,\n      \"is_current\": false,\n      \"iso3\": \"AND\",\n      \"name_tr\": \"Andorra\"\n    },\n    {\n      \"code\": \"AE\",\n      \"area_code\": 971,\n      \"name_en\": \"United Arab Emirates\",\n      \"name_zh-CN\": \"阿拉伯联合酋长国\",\n      \"is_register\": true,\n      \"is_trade\": true,\n    "
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/x-api/register/countryCode",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "lang": "en",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-074044f9b2d75e7a537313689f4fcd6b-0b68029b16aa7e89-01",
+      "usertoken": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "content-type": "application/json;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4",
+      "platform": "pc"
+    },
+    "post_data": null,
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"success\",\n  \"result\": \"{\\\"country_code\\\":\\\"DZ\\\"}\",\n  \"ext_code\": \"\",\n  \"ext_info\": null,\n  \"time_now\": \"1793172919.017306\"\n}"
+  },
+  {
+    "method": "GET",
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=2&event_id=64289791-9891-489a-9009-0331941b8e0a&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&phone_number=98cdca419bb88745f6d769efeb41d7c73f37bcc421c1d5ba4ba6fccdaff77b30&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.47%2CGoogle%20Chrome%2F156.0.8078.47&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=10002&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=o9hl0&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=2&event_id=64289791-9891-489a-9009-0331941b8e0a&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&phone_number=98cdca419bb88745f6d769efeb41d7c73f37bcc421c1d5ba4ba6fccdaff77b30&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.47%2CGoogle%20Chrome%2F156.0.8078.47&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=10002&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=o9hl0&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=2&event_id=8792345a-ee7d-4d43-b5b4-026867f40a92&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&phone_number=98cdca419bb88745f6d769efeb41d7c73f37bcc421c1d5ba4ba6fccdaff77b30&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.47%2CGoogle%20Chrome%2F156.0.8078.47&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=10006&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=qve5w&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=2&event_id=8792345a-ee7d-4d43-b5b4-026867f40a92&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&phone_number=98cdca419bb88745f6d769efeb41d7c73f37bcc421c1d5ba4ba6fccdaff77b30&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.47%2CGoogle%20Chrome%2F156.0.8078.47&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=10006&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=qve5w&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=2&event_id=69149c73-47bb-4ba2-b8ca-9e210f02bc07&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Create%20Account%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&phone_number=98cdca419bb88745f6d769efeb41d7c73f37bcc421c1d5ba4ba6fccdaff77b30&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.47%2CGoogle%20Chrome%2F156.0.8078.47&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=11559&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=o9hl0&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=2&event_id=69149c73-47bb-4ba2-b8ca-9e210f02bc07&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Create%20Account%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&phone_number=98cdca419bb88745f6d769efeb41d7c73f37bcc421c1d5ba4ba6fccdaff77b30&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.47%2CGoogle%20Chrome%2F156.0.8078.47&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=11559&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=o9hl0&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=2&event_id=3f79fc4f-bfd0-4130-b9af-7fa9e30cfa8b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Create%20Account%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&phone_number=98cdca419bb88745f6d769efeb41d7c73f37bcc421c1d5ba4ba6fccdaff77b30&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.47%2CGoogle%20Chrome%2F156.0.8078.47&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=11561&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=qve5w&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=Africa%2FNairobi%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26Win32%26255%261280%26720%264%2624%261280%26720%260%26na%261&eci=2&event_id=3f79fc4f-bfd0-4130-b9af-7fa9e30cfa8b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Create%20Account%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&phone_number=98cdca419bb88745f6d769efeb41d7c73f37bcc421c1d5ba4ba6fccdaff77b30&pl_id=99c5a485-b08a-462c-99a6-f84833db31ce&tw_ch_fvl=Not%3AA-Brand%2F8.0.0.0%2CChromium%2F156.0.8078.47%2CGoogle%20Chrome%2F156.0.8078.47&tw_ch_pv=19.0.0&tw_document_href=https%3A%2F%2Fwww.bybit.com%2Fen%2Fregister&tw_engaged_ms=11561&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793171920743-216380286&twpid=tw.1793172917131.345544485777220397&txn_id=qve5w&type=javascript&version=2.4.12",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/x-api/register/permission_v2",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "lang": "en",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-c0f7d4588896885102b254cf8a61ba79-874f1146f1eee483-01",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "content-type": "application/json;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4",
+      "platform": "pc"
+    },
+    "post_data": null,
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"success\",\n  \"result\": {\n    \"code\": \"DZ\",\n    \"name_en\": \"Algeria\",\n    \"is_visible\": 1,\n    \"is_login\": 1,\n    \"is_trade\": 1,\n    \"ip\": \"186.247.73.79\",\n    \"ban_time\": \"2026-10-28 07:35:20\",\n    \"is_sanction_ip_disallow\": 0,\n    \"refer_site_id\": \"BYBIT\",\n    \"group_country\": \"\"\n  },\n  \"ext_code\": \"\",\n  \"ext_info\": null,\n  \"time_now\": \"1793172920.771715\"\n}"
+  },
+  {
+    "method": "GET",
+    "url": "https://gcaptcha4.geetest.com/load?captcha_id=dfea72f3c3de1910327f2f3b5fbbc9b8&challenge=929823c1-b61f-49b7-a4cb-47cb5d870c5e&client_type=web&lang=eng&callback=geetest_1793172937899",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172937899({\"status\": \"success\", \"data\": {\"lot_number\":\"f0420d8a34f34126bf7f17b01cf8fdf4\",\"captcha_type\":\"slide\",\"slice\":\"captcha_v4/22db56e453/slide/b8bb2211ec/2025-08-06T13/slice/79e2660212644e24be46a2a6e91d2095.png\",\"bg\":\"captcha_v4/22db56e453/slide/b8bb2211ec/2025-08-06T13/bg/79e2660212644e24be46a2a6e91d2095.png\",\"ypos\":23,\"arrow\":\"arrow_1\",\"js\":\"/js/gcaptcha4.js\",\"css\":\"/css/gcaptcha4.css\",\"static_path\":\"/v4/static/v1.9.8-0d53fd\",\"gct_path\":\"/v4/gct/gct4.5a2e755576738ba0499d714db"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/api.js?render=explicit",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "/* PLEASE DO NOT COPY AND PASTE THIS CODE. */(function(){var w=window,C='___grecaptcha_cfg',cfg=w[C]=w[C]||{},N='grecaptcha';var gr=w[N]=w[N]||{};gr.ready=gr.ready||function(f){(cfg['fns']=cfg['fns']||[]).push(f);};w['__recaptcha_api']='https://www.google.com/recaptcha/api2/';(cfg['render']=cfg['render']||[]).push('explicit');(cfg['anchor-ms']=cfg['anchor-ms']||[]).push(20000);(cfg['execute-ms']=cfg['execute-ms']||[]).push(30000);w['__google_recaptcha_client']=true;var d=document,po=d.createElem"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/v4/gct/gct4.5a2e755576738ba0499d714db4f1c9e0.js",
+    "headers": {
+      "origin": "https://www.bybit.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(function(){AdJTB.Bvz=function(){var euq=2;for(;euq!==1;){switch(euq){case 2:return{fcF:function(gSW){var hKn=2;for(;hKn!==14;){switch(hKn){case 5:hKn=iio<jmv.length?4:7;break;case 2:var khW='',jmv=decodeURI('%1Dw%0E/%1B%13%1Dw%0E/%1B%13%1Dw%0E/%1B!&G7%05-%13%1Dw%0E/%1B%13%1Dw3%19$?%00F4%14%049%1DH=%15%1B%13%1Dw%17%14%209&Z$/%1B%13&Y%0E/%1B%13%1CN3%05%1B%13%1DY%22%1E1%227P%20%14%1B%13%1Dw%0E/%1B%13%1D%5D?%221?*G7/%1B%13%1Dw%0E/%1B%13%1Dw6%04+.7@?%1F%1B%13%20H%3C%1D%1B%13%1Dw%0E%13,%257w%0E/%1B%1"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/v4/static/v1.9.8-0d53fd/js/gcaptcha4.js",
+    "headers": {
+      "origin": "https://www.bybit.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "_ᖆᖙᕺᕾ.$_AW=function(){var _ᖆᖙᕺᕾ=2;for(;_ᖆᖙᕺᕾ!==1;){switch(_ᖆᖙᕺᕾ){case 2:return{$_IBAIf:function(_ᖆᖙᕺᕾ){var _ᖃᖙᕶᖉ=2;for(;_ᖃᖙᕶᖉ!==14;){switch(_ᖃᖙᕶᖉ){case 5:_ᖃᖙᕶᖉ=$_IBBBO<$_IBBCS.length?4:7;break;case 2:var $_IBBDD=\"\",$_IBBCS=decodeURI(\"8%1B71H:9%1B11Z:6%1501%0C%178$%20%0A%16:5%08%221%0C%0A0%1F;%20%03:!%1E.1%1F%0C;W+%04;%02!%14%20%1B%0C%0B:$&%03%09:i$%221%17%11'$.1;%14&%157%00%11%1D$%1F%1D%0B;%0C5%0D%1D%07%04%17%1B%0D-?%17%0B$%1F1%1B%1C:p%25%01)=:%0B%1B!%00;%03!%10%1D%0E%08%00%0A%00+%00;%0A%0FHqUWS"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/v4/static/v1.9.8-0d53fd/css/gcaptcha4.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "stylesheet",
+    "response_status": 200,
+    "response_body": "@-webkit-keyframes mvToLeft{0%{opacity:1;-webkit-transform:scale(1) translateZ(0);-ms-transform:scale(1) translateZ(0);transform:scale(1) translateZ(0)}30%{opacity:1;-webkit-transform:scale(.95) translateZ(0);-ms-transform:scale(.95) translateZ(0);transform:scale(.95) translateZ(0)}to{opacity:1;-webkit-transform:scale(.95) translate3d(-120%,0,0);-ms-transform:scale(.95) translate3d(-120%,0,0);transform:scale(.95) translate3d(-120%,0,0)}}@keyframes mvToLeft{0%{opacity:1;-webkit-transform:scale(1)"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/v4/static/v1.9.8-0d53fd/i18n/eng.js",
+    "headers": {
+      "origin": "https://www.bybit.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "!function(e,t){\"object\"==typeof exports&&\"object\"==typeof module?module.exports=t():\"object\"==typeof exports?exports.GeetestLang=t():e.GeetestLang=t()}(window,(function(){return function(e){var t={};function i(r){if(t[r])return t[r].exports;var n=t[r]={i:r,l:!1,exports:{}};return e[r].call(n.exports,n,n.exports,i),n.l=!0,n.exports}return i.m=e,i.c=t,i.d=function(e,t,r){i.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},i.r=function(e){\"undefined\"!=typeof Symbol&&Symbol.toStringTag&&Obje"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__fr.js",
+    "headers": {
+      "origin": "https://www.bybit.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(function(){/*\n\n Copyright The Closure Library Authors.\n SPDX-License-Identifier: Apache-2.0\n*/\n/*\n\n\n Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. and contributors\n Licensed under the Apache License, Version 2.0 (the \"License\");\n you may not use this file except in compliance with the License.\n You may obtain a copy of the License at\n     http://www.apache.org/licenses/LICENSE-2.0\n Unless required by applicable law or agreed to in writing, software\n distributed under the "
+  },
+  {
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf-PBciAAAAAPt8JcrDsUuM4ocIID0CyPTq6QXq&co=aHR0cHM6Ly93d3cuYnliaXQuY29tOjQ0Mw..&hl=fr&v=NhfdZHzre16wrc2m6BxEdu7J&size=invisible&anchor-ms=20000&execute-ms=30000&cb=vdqi0g5a8ps0",
+    "headers": {
+      "referer": "https://www.bybit.com/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "resource_type": "document",
+    "response_status": 200,
+    "response_body": "<!DOCTYPE HTML><html dir=\"ltr\" lang=\"fr\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<title>reCAPTCHA</title>\n<style type=\"text/css\">\n/* cyrillic-ext */\n@font-face {\n  font-family: 'Roboto';\n  font-style: normal;\n  font-weight: 400;\n  font-stretch: 100%;\n  src: url(//fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2) format('woff2');\n  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/captcha_v4/22db56e453/slide/b8bb2211ec/2025-08-06T13/bg/79e2660212644e24be46a2a6e91d2095.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/captcha_v4/22db56e453/slide/b8bb2211ec/2025-08-06T13/slice/79e2660212644e24be46a2a6e91d2095.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/v4/static/v1.9.8-0d53fd/css/panel_loading.gif",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://static.geetest.com/v4/static/v1.9.8-0d53fd/css/gcaptcha4.css",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.google.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "stylesheet",
+    "response_status": 200,
+    "response_body": ".goog-inline-block{position:relative;display:-moz-inline-box;display:inline-block}* html .goog-inline-block{display:inline}:first-child+html .goog-inline-block{display:inline}.recaptcha-checkbox{border:none;font-size:1px;height:28px;margin:4px;width:28px;overflow:visible;outline:0;vertical-align:text-bottom}.recaptcha-checkbox-border{border-radius:2px;background-color:#fff;border:2px solid #444746;font-size:1px;height:24px;position:absolute;width:24px;z-index:1}.recaptcha-checkbox-borderAnimatio"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__fr.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.google.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(function(){/*\n\n Copyright The Closure Library Authors.\n SPDX-License-Identifier: Apache-2.0\n*/\n/*\n\n\n Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. and contributors\n Licensed under the Apache License, Version 2.0 (the \"License\");\n you may not use this file except in compliance with the License.\n You may obtain a copy of the License at\n     http://www.apache.org/licenses/LICENSE-2.0\n Unless required by applicable law or agreed to in writing, software\n distributed under the "
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/v4/static/v1.9.8-0d53fd/css/sprite.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://static.geetest.com/v4/static/v1.9.8-0d53fd/css/gcaptcha4.css",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=fr&v=NhfdZHzre16wrc2m6BxEdu7J",
+    "headers": {
+      "accept": "*/*"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "importScripts('https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__fr.js');"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__fr.js",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "referer": "https://www.google.com/"
+    },
+    "post_data": null,
+    "resource_type": "other",
+    "response_status": 200,
+    "response_body": "(function(){/*\n\n Copyright The Closure Library Authors.\n SPDX-License-Identifier: Apache-2.0\n*/\n/*\n\n\n Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. and contributors\n Licensed under the Apache License, Version 2.0 (the \"License\");\n you may not use this file except in compliance with the License.\n You may obtain a copy of the License at\n     http://www.apache.org/licenses/LICENSE-2.0\n Unless required by applicable law or agreed to in writing, software\n distributed under the "
+  },
+  {
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=fr&v=NhfdZHzre16wrc2m6BxEdu7J&k=6Lf-PBciAAAAAPt8JcrDsUuM4ocIID0CyPTq6QXq&bft=0dAFcWeA4OQ8auPzVzWh3sI1TDu76feZU_zfyVuvmOvDCaZHxdTUsp9GGytX_3CG3hNLBUuApJ_pll6Es82Whh2z8voioL5zPVrg",
+    "headers": {
+      "referer": "https://www.bybit.com/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "resource_type": "document",
+    "response_status": 200,
+    "response_body": "<!DOCTYPE HTML><html dir=\"ltr\" lang=\"fr\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n<title>reCAPTCHA</title>\n<style type=\"text/css\">\n/* cyrillic-ext */\n@font-face {\n  font-family: 'Roboto';\n  font-style: normal;\n  font-weight: 400;\n  font-stretch: 100%;\n  src: url(//fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2) format('woff2');\n  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, "
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+    "headers": {
+      "referer": "https://www.google.com/"
+    },
+    "post_data": null,
+    "resource_type": "stylesheet",
+    "response_status": 200,
+    "response_body": ".goog-inline-block{position:relative;display:-moz-inline-box;display:inline-block}* html .goog-inline-block{display:inline}:first-child+html .goog-inline-block{display:inline}.recaptcha-checkbox{border:none;font-size:1px;height:28px;margin:4px;width:28px;overflow:visible;outline:0;vertical-align:text-bottom}.recaptcha-checkbox-border{border-radius:2px;background-color:#fff;border:2px solid #444746;font-size:1px;height:24px;position:absolute;width:24px;z-index:1}.recaptcha-checkbox-borderAnimatio"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__fr.js",
+    "headers": {
+      "referer": "https://www.google.com/"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "(function(){/*\n\n Copyright The Closure Library Authors.\n SPDX-License-Identifier: Apache-2.0\n*/\n/*\n\n\n Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. and contributors\n Licensed under the Apache License, Version 2.0 (the \"License\");\n you may not use this file except in compliance with the License.\n You may obtain a copy of the License at\n     http://www.apache.org/licenses/LICENSE-2.0\n Unless required by applicable law or agreed to in writing, software\n distributed under the "
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/api2/info_2x.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/api2/payload?p=06AFcWeA4503L31wHvTsEtgTLSIUf9Jg2QOM8pR7TEmNw_0v7DHEUe7DuzeP4rh3Zdat9RuWqmK5acAnJYQmP0xsjrkmEO1JpeCFD5ncdDr4BZQIKBGxUJq0jv3nFVgcinN1CH_FBw_5G-AHr-g57cuGyPOoK8nrQekmeu04l_gVas2PWi3zU98pobSvGz3sutUSKXewmaeYQNJwcDfwu8VN9RcZhD_YjmKAL4jMp3mOU83FFBAbuB40c&k=6Lf-PBciAAAAAPt8JcrDsUuM4ocIID0CyPTq6QXq",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.google.com/recaptcha/api2/bframe?hl=fr&v=NhfdZHzre16wrc2m6BxEdu7J&k=6Lf-PBciAAAAAPt8JcrDsUuM4ocIID0CyPTq6QXq&bft=0dAFcWeA4OQ8auPzVzWh3sI1TDu76feZU_zfyVuvmOvDCaZHxdTUsp9GGytX_3CG3hNLBUuApJ_pll6Es82Whh2z8voioL5zPVrg",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://gcaptcha4.geetest.com/verify?callback=geetest_1793172936367&captcha_id=dfea72f3c3de1910327f2f3b5fbbc9b8&client_type=web&lot_number=f0420d8a34f34126bf7f17b01cf8fdf4&payload=AgFD8gWUUuHFx-XvpP7J2TN03zUmTaSfVsr_z-qmwzhWIJnDAqDr3T15nMcX5fp2ge5F3CZlr99nd9CYxQ_W13hKfcCJ5R9BAnURX4l98ienpeHe_760Fv1ypCa5I712lx40a_qHQSztJcAkbk87ML2QHwnFsr2kxHHXxfaJ6Fn_cm-O3BbTtAxu5GjVrCoN735X3L2348gAGg0IKyuZtczWnqDioPKTBRCKzqpz6kXwxCmCOTBDpXFVLxSFn0rSirlKBtDF1LEJgnltXeLdUYuJnb14ZK9Dpi0Cru2b511Ubo1Lqf4MrCvgQTKL7eBk2L_ncSqrFYa9ORATw5bCHafR5A_xT01Z3IJC9g93D49Umo7SYWZ6kkN3jWjxXVbJt3W9iE6dWo7oUlEjQ30hA7jXN3Fu-nuRp74FUXb2o8jrCDdqd0Sl6laKRrHzOmtopSc0VT7SuRU-SIvVBpVd08bpBNJ80Ffw5XhP-kxaZ-1Wh_NGBdfb-UXT3z05Eufw6CVroeiGZMMm6DTf4YQmd-lAg8GCGvRfqH_dhWv-0fbckL5fedG9izbau3fuueaWD8yO8KTNb0WYk78FsD4cFGAjWl6Ge17kWzKmxhYW0BxLnVSG90T8oezhdWxh9EYfjNl85lGBLbgZXzKiCtamF0sX6umf7ZCrQhGwYucwyE4mMcoqxXaDPK-QlcWUfOViFSosKpxUnfZCtkh0e6Se-PLfv5RUBX3DwBGdRpHScFfcUx1kQFdsyrrn6jL_Y0FXLfFDbfYmhzMe_o8VVYJcvd1dSfqxQ6cHl3f4dLRmB5azw2n57qb_NZYnIN5keKu3cSioyR_LTYurzVfAaLmwQn4QGuJrpFxNu0FrvHBnmnKxfPeohEKeEs9-5n7BnSK_HpiiPi1EQ7yQTnH339OpX_fv-2jCbVQPmfUGnESogIdrXHeXaxVblfCQA0wFTaZSL8ItEobpajP8FGAnShCJOQ%3D%3D&process_token=61ed836cab34b55776b6c2fb9d80f512e337823ba9b024ce05e0308ab6926500&payload_protocol=1&pt=1&w=317ae856c10e7c4683396264dc9bd31aab7d080033095e0c584cb87201a07ca00a7bbd44c645f50c4d9c07cf52fa796a5f5b54257448ba6bc3c6bfac8b4646661348f331a380f9c5f02a8cea1ed129781428a7271cb7fe506b2602f738f6da3651dbfebbb4863372fa847cba56dcf5dfbd524d65871276c238da557eeed348a1a3cae5e4e5f1e104e44fc0fee446ec3aff82416ce30ed7ddba12a267c7a4c9185ce624bd2aaa494f084dd4c148a0e3723d92515b25dcb591c1c6fbef568da91a852e06399b5287aa0e0cd07c250408151329c077f53299ac5389e02d4168ac845246abe8423c375891eb8be6719e48944ab93ea52c26e8cabec45f619414476abb6ca64ade18c0df55f0657ccf8843254e643e0b51ccee89ce43e4550bbad47347fa84c3e992e0d32ff0aa7ad9e0e5ff7d891ad37c98a6cf918414cd6ab7f4815e7f8bf3bcf12c92e2211946f396db82468e2edb6757dffe0e39824cf911ff48551ad266c58af5358904876bbf2a470e82db077f1c0848e3341329c48535c87e162391c9fe016c539d1e27ff8ccfaf9e26a2b6a150750ad2984329be6f27395a74c5d362ac79407243d9a749af686bf66deb0789bca73ba953a805b62a1c4b1b843547ebb1509603549f77d47833ac0a4944e6a9b97f8f50271f6fde258991e85e14705399e9055c8d09773391ef2fd327d44b7aed19d50bf8b722d33dffa3be55edf7a388bf20623d0119ee0a56d5cbac5369987907755dce2b1364d4550926f2f0a341aeb1bb3c08c446c1f1c7c12e44bcbb326354dcdf1081cbdaa1f98ce7ef992ddd50462eed537ee86c3388d4fc12e3df4cb77988a382c425737abdd6c7fb9ad8daaeb19bffbab292943cb84c285105793dfc403e63d66fa1bf7065e505fa68c1eaf09a0af6af4fddf9b4ba2674be9277a87ef158fa56f87ccea2993f347ac910aa89991f1345984b21708b459f&td=H4sIAMel4WoAA12UTa7bMAyE7-K1EUj8lXKVhywLdFOgQBddFL37I4dObHkTQ5-YETmk9G_7tT37vv3dntz6Y3TSffu5Pcn40byWfyLCJ3en-Jka5MeFaJO2b7-359dX29sjAMdntKl7e-1ffeZKTPLDPPceUEas1GbuzW4d0OIPDyXLvUmugIMSNkMkdwbsPUPFPDfjwPp_51yKeJ5_UsiyOmSbeFHoMnWkNbQoQTcyANUoBBS6pCGYNGJAoUusuTnYjljoEg0DDfeShmtJO0GBpExguNAnQeFDodvj9IVCt_uAmzQqX0G-0QU4Lq0qltKFZUO8QhWnhBmOImaFKvTe1KxiJyp9U2-6c1pGnJgq3aQwknAaWc_PBY8MZgq_FzwzjMWR3AczCmFDky4Y2jwdbp4YZkiLEbliQTOl3zFEhNuaiZSIYoZOnO0NHIOyYsyAtganT4yx1n7HKF6PFpwYxR8TfmKDr5rtW3BdkpjyFZe22uqJlbbdsJf2wOeCSzsu1Ioxe9ZimBcMbSNayxmcxRvTWs4oEblj-G0yV2Mn_LZIZcVI0OyOUbyNuFcXTA2dt3nH6E68MkuV1JBJLBdjKYYwcQz0inGk1zP2oTX1TrrYHQ6lpvN6R6jm2Llu74lLWuqqf3ANrGu9Fi7HyyLogmvc_SuuWYvOVdpvXNPjx3QflNvIo9zriU5Mr9f_b5KxxvcEBgAA",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172936367({\"status\": \"success\", \"data\": {\"lot_number\":\"f0420d8a34f34126bf7f17b01cf8fdf4\",\"result\":\"success\",\"fail_count\":0,\"seccode\":{\"captcha_id\":\"dfea72f3c3de1910327f2f3b5fbbc9b8\",\"lot_number\":\"f0420d8a34f34126bf7f17b01cf8fdf4\",\"pass_token\":\"3d1cfc9acf1fd3a3b5659c4a092166312ddd299aa7124a2d4fb6deecaa0cbc1b\",\"gen_time\":\"1793172921\",\"captcha_output\":\"-hKPKJ-J3zAefi10e2IqzN52G9cb0pni-OKV644DTCKw5B95Cfxdi_UXZ0rEnyQ9NIMtcwHal5f0Z1bM-y7mTKBL5Wswdwgy1hgLAslvuumnkIUX_u8Z18KkX9up6z36v6ykdeog"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.bybit.com/x-api/user/magpice/v1/captcha/verify",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-95b7754815f40295b39c6859953e4552-bde67a32eb160b80-01",
+      "usertoken": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "content-type": "text/plain;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4"
+    },
+    "post_data": "{\"captcha_output\":\"-hKPKJ-J3zAefi10e2IqzN52G9cb0pni-OKV644DTCKw5B95Cfxdi_UXZ0rEnyQ9NIMtcwHal5f0Z1bM-y7mTKBL5Wswdwgy1hgLAslvuumnkIUX_u8Z18KkX9up6z36v6ykdeogSNFcxTRAGP_9D4sPwfK03P_TXyN2B4a3rxy7UqI864OG68Q3Vc10Ea6Kze9tC0hHnGFS-MoSYf3WI-mlgVPc11MOf_zvunZwBHYoXofeRLoOWsqCQv0B_Roifd5zbQxslQaUXMRLL1H4LiD4j8DucvuxlZJQDajdUWsQHxNRjlQr2vjGzSK6XnnFzV0ogiOMOOljuZkZ6_8xSGMYAv3zxYt56WVQSrrO4mNAg7uh9G7q5WfjU0U5ZREBbErqndWrgKtKrMKOOwBnqPulHRRxpPvYtpkpNxYNj03getVGpoutsX6kpg6K4C1er3GlUfCrs9_PLDr7sqyz6FnzagBwWp4iPJeT08gPAXg=\",\"gee4test_gen_time\":\"1793172921\",\"lot_number\":\"f0420d8a34f34126bf7f17b01cf8fdf4\",\"pass_token\":\"3d1cfc9acf1fd3a3b5659c4a092166312ddd299aa7124a2d4fb6deecaa0cbc1b\",\"login_name\":\"9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4\",\"captcha_type\":\"gee4captcha\",\"serial_no\":\"1793170791042750812894795053100420331#1a322a33776c386625caeeb064914426\",\"scene\":\"31004\"}",
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"success\",\n  \"result\": {\n    \"result\": true,\n    \"token\": \"1793170791042750812894795053100420331#1a322a33776c386625caeeb064914426\",\n    \"state\": \"\",\n    \"expire_time\": 0,\n    \"challenge_type\": \"\",\n    \"challenge\": \"\",\n    \"serial_no\": \"\"\n  },\n  \"ext_code\": \"\",\n  \"ext_info\": null,\n  \"time_now\": \"1793172929.843629\"\n}"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.bybit.com/x-api/user/magpice/v1/captcha/order",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-8154c451d293672c8760df49f9c6c495-1da6810c652c6dfe-01",
+      "usertoken": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "content-type": "text/plain;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4"
+    },
+    "post_data": "{\"txid\":\"\",\"login_name\":\"9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4\",\"country_code\":\"\",\"scene\":\"31004\",\"state\":\"\"}",
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"success\",\n  \"result\": {\n    \"challenge\": \"gee4captcha,geecaptcha,qqcaptcha\",\n    \"serial_no\": \"1793170791353190812930319053100420331#be216d9fe1d028af474abac1c0503b1a\",\n    \"gt\": \"5c7686ca05a60b10deb39b8d60e53a6f\",\n    \"gt4\": \"dfea72f3c3de1910327f2f3b5fbbc9b8\",\n    \"challenge_type\": \"1\",\n    \"geetest_challenge\": \"8908cc343a065eb9ca49c696c1f34c45\",\n    \"state\": \"\",\n    \"serial_no_type\": \"1\",\n    \"gt_no\": \"\",\n    \"ext_info\": \"\",\n    \"ext_infov1\": \"\",\n    \"a_id\": \"18"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.bybit.com/x-api/user/public/risk/default-intercept",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "lang": "en",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-a1263982a22bc8d16ff18a7c9f24b2e0-3c9a755bfdcfdcb4-01",
+      "tx-id": "dmVyMQ|==||==",
+      "usertoken": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "content-type": "application/json;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4",
+      "platform": "pc"
+    },
+    "post_data": "{\"sence\":\"30002\",\"ext_info\":{\"countyCode\":\"DZ\"}}",
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"success\",\n  \"result\": {\n    \"risk_token\": \"0360296661418507867030002#dbc1724d9d\",\n    \"risk_token_type\": \"pass\",\n    \"state\": \"\",\n    \"ext_info\": {\n      \"disposal\": \"0\"\n    }\n  },\n  \"ext_code\": \"\",\n  \"ext_info\": null,\n  \"time_now\": \"1793172930.371444\"\n}"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.bybit.com/x-api/user/secure/user/public/otp/channel",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "lang": "en",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "entry": "aHR0cHM6Ly93d3cuYnliaXQuY29tL2VuL3JlZ2lzdGVy",
+      "traceparent": "00-d82639041055b39cad9e6891abca9aad-5b203dc20bb6a814-01",
+      "tx-id": "dmVyMQ|==||==",
+      "usertoken": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "content-type": "application/json;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4",
+      "platform": "pc"
+    },
+    "post_data": "{\"mobile\":\"799504757\",\"country_code\":\"DZ\",\"scene\":\"30002\"}",
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"success\",\n  \"result\": {\n    \"channels\": [\n      \"whatsapp\",\n      \"sms\"\n    ],\n    \"defaultChannel\": \"\"\n  },\n  \"ext_code\": \"\",\n  \"ext_info\": null,\n  \"time_now\": \"1793172931.000887\"\n}"
+  },
+  {
+    "method": "GET",
+    "url": "https://gcaptcha4.geetest.com/load?captcha_id=dfea72f3c3de1910327f2f3b5fbbc9b8&challenge=9551219d-b2b1-45ff-892a-2813ccb9afb5&client_type=web&lang=eng&callback=geetest_1793172943644",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172943644({\"status\": \"success\", \"data\": {\"lot_number\":\"b50d06a8d9b34877a4f82e1ca12fb195\",\"captcha_type\":\"slide\",\"slice\":\"captcha_v4/22db56e453/slide/563521e64d/2025-08-06T13/slice/c2386d5586c3488795a9bd48ce952733.png\",\"bg\":\"captcha_v4/22db56e453/slide/563521e64d/2025-08-06T13/bg/c2386d5586c3488795a9bd48ce952733.png\",\"ypos\":106,\"arrow\":\"arrow_1\",\"js\":\"/js/gcaptcha4.js\",\"css\":\"/css/gcaptcha4.css\",\"static_path\":\"/v4/static/v1.9.8-0d53fd\",\"gct_path\":\"/v4/gct/gct4.5a2e755576738ba0499d714d"
+  },
+  {
+    "method": "GET",
+    "url": "https://api.geetest.com/gettype.php?gt=5c7686ca05a60b10deb39b8d60e53a6f&callback=geetest_1793172941763",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172941763({\"status\": \"success\", \"data\": {\"type\": \"fullpage\", \"static_servers\": [\"static.geetest.com/\", \"static.geevisit.com/\"], \"click\": \"/static/js/click.3.1.2.js\", \"beeline\": \"/static/js/beeline.1.0.1.js\", \"voice\": \"/static/js/voice.1.2.6.js\", \"fullpage\": \"/static/js/fullpage.9.2.0-guwyxh.js\", \"slide\": \"/static/js/slide.7.9.3.js\", \"geetest\": \"/static/js/geetest.6.0.9.js\", \"aspect_radio\": {\"slide\": 103, \"click\": 128, \"voice\": 128, \"beeline\": 50}}})"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/v4/static/v1.9.8-0d53fd/css/gcaptcha4.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "stylesheet",
+    "response_status": 304,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/v4/static/v1.9.8-0d53fd/i18n/eng.js",
+    "headers": {
+      "origin": "https://www.bybit.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 304,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://api.geetest.com/get.php?gt=5c7686ca05a60b10deb39b8d60e53a6f&challenge=8908cc343a065eb9ca49c696c1f34c45&lang=en&pt=0&client_type=web&w=UEfkIo1XZZ4bq7LS62gAB2ao9KxwyhiazwZ7bTppzyofuEsGShJeXTBs6ijgVA4Wljj(ESGyHdDsCOn(tbebgduy3KhgwP4StE7zqlsm3IJ83rK1aIzE0kfd2B1EmjlM19u9)TMUtp2pLhSXmaehzrY6bUvd6u9jJeGU4XHTTddhsI7HVoijccIvAQ3ekYyOIgApJoqlsNIFsCHi3WNlDgBrWqPq(L2Dbr4626S)(jydx2OZxD4TulBBt)f9HkuhyM4XO8NZfR4AtlSYQEmRevI81FcSP)9F)4z4aGE4lNbbuJ9)MJjTxlG7(AkfIkOkqA9bXTz5qlUkOzYounT24AADgaZQOmhCNO7rXvNkAegf2pkTF849tY)FhnPV0xQ91HodvfGrjA7DqzdTqg(BAyLwIk(DPGlQfYx1(wf)PWxV4)mQYptCtBHbgux1o8745d8Ub9Sg9NTFj3p5lph025c)9uNFgcNmUIjmlnI3BIuhuhwgRdNOclhAbH)ftImT(n7jyNDpSyZkKSHjEE2a3)dYzTzJktCR7vb)rJzJW6V6NTVZ35hROdhtOEwzHMMLJbW5leXNqN4DlhUopjCfnEFc)e23rld2k9N(vQNS(Lhs9ODnJDL3sWmKYK2bbqBZuVckEn1B(dsd4R7B8RBO(jqqG5lbaZRUU298yJvddSs)2p6ZqkgNlNsZdiPsaUrUzJD7HR2iPIwF9b(Q6oOlXGjSPkP76lxfAJUeXfGHpDII79mwpscZL28dNW4gNRdxm43QnuOgiSUicAAZCQCQ9ndqub)fEk4gL8JLFntKfeZSZVy)cY99ZaNy06QhvEzghCsjMSfjuNxVFLg9N21twq1KR1aZKNv5BCxCB5dHSKYiAM7365o(p0ZX5SaUdcEhKbezdJxIVvffMFRduxc5JBVNo0(yitu309AciADXeqd(6mBfHA5ucvueJoThFWwMSUp8YZRbi3AtzQjoldiM9cEGvhbV)5cMXImb9Gx1aJJqe3OKXV040UWircnvp9RyFdN4ISE0N(vZ9vqD((3xjCcpZjHzeBudyg1XJO3)YuMp7KSjmzohrbMQEYM7lT9O7i7NZRlF0NKrxNfha0z4H0nxK2Y1SZ2IygdiKZr)(oSqnPZx0(eaLI39M3Y(uTO4a83af83c1fa9c1ad2fcdd878165e3ba56fe152ed34c3d62a4637587824ad75b45afc2c2ee8ec0cb0d5d8c021a0c4e689c7da488064b628feba4888117668e5087b21a4734279c7f2149594d2f15fa1f29693306b99b4a379c52a0051fd1e3e7a9f2f507914e1bf275b110ae41cca35e0c8c845955fdf413ee7aa03679f7fac18&callback=geetest_1793172939921",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "geetest_1793172939921({\"status\": \"success\", \"data\": {\"theme\": \"wind\", \"theme_version\": \"1.5.8\", \"static_servers\": [\"static.geetest.com\", \"static.geevisit.com\"], \"api_server\": \"api.geevisit.com\", \"logo\": false, \"feedback\": \"\", \"c\": [12, 58, 98, 36, 43, 95, 62, 15, 12], \"s\": \"664e6950\", \"i18n_labels\": {\"copyright\": \"Powered by Geetest\", \"error\": \"Error\", \"error_content\": \"Retry\", \"error_title\": \"Timed out\", \"fullpage\": \"Verifying\", \"goto_cancel\": \"Cancel\", \"goto_confirm\": \"OK\", \"goto_homepage\": \"G"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/common-static/cht-static/user-svc/img/register/ui/whatsapp.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/common-static/cht-static/user-svc/img/register/ui/sms.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/captcha_v4/22db56e453/slide/563521e64d/2025-08-06T13/bg/c2386d5586c3488795a9bd48ce952733.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/captcha_v4/22db56e453/slide/563521e64d/2025-08-06T13/slice/c2386d5586c3488795a9bd48ce952733.png",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "image",
+    "response_status": 200,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://static.geetest.com/static/wind/style_https.1.5.8.css",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "stylesheet",
+    "response_status": 304,
+    "response_body": "(inaccessible)"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bybit.com/static/login-register/_next/static/chunks/8015.c8fd0512f8ebdd69.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.bybit.com/en/register",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "resource_type": "script",
+    "response_status": 200,
+    "response_body": "\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8015],{8015:function(t,e,i){function r(t){return\"0123456789abcdefghijklmnopqrstuvwxyz\".charAt(t)}function n(t,e){return t&e}function s(t,e){return t|e}function o(t,e){return t^e}function h(t,e){return t&~e}i.r(e),i.d(e,{JSEncrypt:function(){return tn},default:function(){return ts}});var a,u,c,f,l,p,g,d,v,m=\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/\";function y(t){var e,i,r=\"\";for(e=0;e+3<=t.length;e+=3)i"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.bybit.com/x-api/user/public/register/info",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "lang": "en",
+      "referer": "https://www.bybit.com/en/register",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+      "sec-ch-ua-mobile": "?0",
+      "entry": "aHR0cHM6Ly93d3cuYnliaXQuY29tL2VuL3JlZ2lzdGVy",
+      "traceparent": "00-4f389ad38b56304e5a81bb3af0612d81-0a92329cf7cd80db-01",
+      "tx-id": "dmVyMQ|==||==",
+      "usertoken": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "accept": "application/json",
+      "content-type": "application/json;charset=UTF-8",
+      "guid": "9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4",
+      "platform": "pc"
+    },
+    "post_data": "{\"lang\":\"en\",\"g\":\"9bc6eabd-bf1d-4836-c30e-f101a9bcb0e4\",\"medium\":\"direct\",\"url\":\"https://www.bybit.com/en/register\",\"last_refresh_time\":\"Wed, 28 Oct 2026 07:34:51 GMT\",\"ext_json\":\"{\\\"dtpid\\\":null,\\\"click_id\\\":null,\\\"is_manual_input\\\":false}\",\"country_code\":\"DZ\",\"mobile\":\"799504757\",\"ref\":\"\",\"from\":5,\"location_link\":\"https://www.bybit.com/en/register\",\"is_fake\":false,\"type\":\"geecaptcha\",\"reg_live_country\":\"DZ\",\"channel\":\"sms\",\"magpie_verify_info\":{\"token\":\"1793170791042750812894795053100420331#1a322a33776c386625caeeb064914426\",\"scene\":\"31004\"},\"user_code\":\"\",\"risk_token\":\"0360296661418507867030002#dbc1724d9d\",\"verify_type\":1,\"login_type\":3}",
+    "resource_type": "fetch",
+    "response_status": 200,
+    "response_body": "{\n  \"ret_code\": 0,\n  \"ret_msg\": \"\",\n  \"result\": {\n    \"uuid\": \"79e74139-d829-4de8-a80a-2604de4aecd6\"\n  },\n  \"ext_code\": \"\",\n  \"ext_info\": null,\n  \"time_now\": \"1793172933.136119\"\n}"
+  }
+]

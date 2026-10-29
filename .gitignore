@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Chrome profiles and browser data
+chrome_profile/
+real_chrome_profile/
+*.log
+
+# Screenshots and test output
+*.png
+test_result.png
